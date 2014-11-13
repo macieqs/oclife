@@ -114,7 +114,9 @@ $TRANSLATIONS = array(
 'Owner changed successfully!' => 'Właściciel zmieniony poprawnie!',
 'Owner not changed! Permission denied!' => 'Właściciel nie został zmieniony! Brak dostępu!',
 'Owner not changed! Data base error!' => 'Właściciel nie został zmieniony! Błąd bazy danych!',
-'Owner not changed! Ajax error!' => 'Właściciel nie został zmieniony! Błąd Ajax!'
+'Owner not changed! Ajax error!' => 'Właściciel nie został zmieniony! Błąd Ajax!',
+
+'Tags' => 'Tagi'
 
 );
 

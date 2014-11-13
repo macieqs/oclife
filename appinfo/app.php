@@ -18,6 +18,9 @@
  * along with oclife.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+// Handle translations
+$l = new \OC_L10N('oclife');
+
 \OCP\App::addNavigationEntry(array(
 
     // the string under which your app will be referenced in owncloud
@@ -36,11 +39,10 @@
 
     // the title of your application. This will be used in the
     // navigation or on the settings page of your app
-    'name' => 'Tags'
+    'name' => p($l->t('Tags'))
 ));
 
-// Handle translations
-$l = new \OC_L10N('oclife');
+
 
 // Add what's needed by TagManager
 \OCP\Util::addStyle('oclife', 'bootstrap-tokenfield');
