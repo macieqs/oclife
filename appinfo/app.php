@@ -39,7 +39,7 @@ $l = new \OC_L10N('oclife');
 
     // the title of your application. This will be used in the
     // navigation or on the settings page of your app
-    'name' => p($l->t('Tags'))
+    'name' => $l->t('Tags')
 ));
 
 
