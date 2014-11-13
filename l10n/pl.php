@@ -75,7 +75,6 @@ $TRANSLATIONS = array(
 'Unable to get actual tags for this document! Ajax error!' => 'Nie można pobrać aktualnych tagów dla tego pliku! Błąd Ajax!',
 'All selected files' => 'Wszystkie zaznaczone pliki',
 'Informations on' => 'Informaciej o',
-'Informations' => 'Informacje',
 
 // getFileInfo.php
 'Multiple files selected' => 'Zaznaczono wiele plików',
@@ -85,5 +84,37 @@ $TRANSLATIONS = array(
 'Encrypted? ' => 'Zaszyfrowane? ',
 'Yes' => 'Tak',
 'No' => 'Nie',
-'Unencrypted size' => 'Niezaszyfrowany rozmiar'
+'Unencrypted size' => 'Niezaszyfrowany rozmiar',
+
+
+// - JavaScript
+'Settings not saved! Data base error!', 'Ustawienia nie zostały zapisane! Błąd bazy danych!',
+'Settings not saved! Communication error!', 'Ustawienia nie zostały zapisane! Błąd komunikacji!',
+
+'Not set' => 'Nie ustawiono',
+'Owner:' => 'Właściciel:',
+'Read only' => 'tylko odczyt',
+'Can modify' => 'może edytować',
+'None' => 'Żaden',
+'Group:' => 'Grupa:',
+'All:' => 'Wszyscy:',
+'Image preview' => 'Podgląd',
+
+'Priviledges' => 'Uprawnienia',
+'User - Readonly' => 'Użytkownik - tylko odczyt',
+'User' => 'Użytkownik',
+'Group - Readonly' => 'Grupa - tylko odczyt',
+'Group' => 'Grupa',
+'Global - Readonly' => 'Wszyscy - tylko odczyt',
+'Global' => 'Wszyscy',
+'Priviledge changed successfully!' => 'Uprawnienia zmienione poprawnie!',
+'Priviledge not changed! Data base error!' => 'Uprawnienia nie zostały zmienione! Błąd bazy danych!',
+'Priviledge not changed! Ajax error!' => 'Uprawnienia nie zostały zmienione! Błąd Ajax!',
+'Priviledge not changed! Permission denied!' => 'Uprawnienia nie zostały zmienione! Brak dostępu!',
+'Owner changed successfully!' => 'Właściciel zmieniony poprawnie!',
+'Owner not changed! Permission denied!' => 'Właściciel nie został zmieniony! Brak dostępu!',
+'Owner not changed! Data base error!' => 'Właściciel nie został zmieniony! Błąd bazy danych!',
+'Owner not changed! Ajax error!' => 'Właściciel nie został zmieniony! Błąd Ajax!'
+
 );
+
