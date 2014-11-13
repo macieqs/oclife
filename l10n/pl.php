@@ -93,9 +93,9 @@ $TRANSLATIONS = array(
 
 'Not set' => 'Nie ustawiono',
 'Owner:' => 'Właściciel:',
-'Read only' => 'tylko odczyt',
-'Can modify' => 'może edytować',
-'None' => 'Żaden',
+'Read only' => 'Tylko odczyt',
+'Can modify' => 'Może edytować',
+'None' => 'Brak uprawnień',
 'Group:' => 'Grupa:',
 'All:' => 'Wszyscy:',
 'Image preview' => 'Podgląd',
